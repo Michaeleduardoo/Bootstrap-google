@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+body{
+    width: 100%;
+}
+
+.img-um{
+    width: 60%;
+    height: 60%;
+    margin-left: 50px;
+}
+
+.navbar{
+    background-color:DarkSlateGray;
+}
+
+.nav-link{
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.quemsomos{
+    background-color: LightGrey;
+    padding-top: 40px;
+   
+}
+
+.titulo-quemsomos{
+
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 9px;
+}
+#img-equipe{
+    width: 300px;
+    height: 200px;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.paragrafo{
+
+    font-size: 16px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 50px;
+    line-height: 25px;
+}
+
+#parceiros{
+    background: LightBlue;
+}
+
+.img-item{
+    width: 70%;
+    height: 215px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.img-duas{
+    width: 90%;
+    height: 95%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.paragrafo-seg{
+    font-size: 16px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 30px;
+    line-height: 25px;
+}
+
+#serviço{
+    
+    background-color:LightGrey ;
+    
+}
+
+.final{
+    width: 100%;
+    background-color: DarkSlateGray;
+    height: 25px;
+}
+
+#ult-paragrafo{
+color: white;
+margin-bottom: 30px;
+}
