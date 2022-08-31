@@ -67,16 +67,30 @@ body{
 .img-item{
     width: 70%;
     height: 215px;
+    display: block;
     margin-top: 30px;
+    margin-right: auto;
     margin-bottom: 50px;
+    margin-left: auto;
 }
+
 
 .img-duas{
     width: 90%;
-    height: 95%;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    height: 300px;
+    object-fit: contain;
+    margin-top: 10px;
 }
+
+.img-dua{
+    width: 90%;
+    height: 300px;
+    object-fit: contain;
+    margin-top: 10px;
+}
+
+
+
 
 .paragrafo-seg{
     font-size: 16px;
@@ -98,6 +112,13 @@ body{
     height: 25px;
 }
 
+.row{
+    width: 99%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
 #ult-paragrafo{
 color: white;
 margin-bottom: 30px;
